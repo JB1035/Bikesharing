@@ -16,12 +16,17 @@ https://public.tableau.com/app/profile/jennifer.barrios/viz/shared/K56YF8C2B
 
 Key Findings by Visualization: 
 * Total Number of Rides: 2,344,244
-* Checkout Times for Users: Most 
+* Checkout Times for Users: Most checkouts last for less than an hour, with mos rides lasting 10 min for 140k riders 20 min for 40k riders.
 * Trips by Weekday per Hour: Thursdays and Saturdays are the busiest days from with rides most between 7am-8pm.
-* Gender Breakout: 
-* Trips by Gender (Weekday/Hr)
-* Checkout Times by Gender:
-* Usertype Breakout:
-* User Trips by Usertype by Gender by Weekday:
+* Gender Breakout: The majority of riders (65%) are male.
+* Trips by Gender (Weekday/Hr): Males and females follow similar usage patterns by weekday. The busiest times are 8am M-F, and 5-7pm M-F.
+* Checkout Times by Gender: Both males and females tripduration mostly last for less than an hour, with most rides at 10 min.
+* Usertype Breakout: More than half (81%) of usertypes are subscribers vs customers.
+* User Trips by Usertype by Gender by Weekday: Thursdays is the busiset day of the week among male and female subscriber types, followed by Friday, Tuesday, Monday. 
 
 # Summary
+
+Considering the lower usage times of less than an hour for most bikerides, which also take place mostly during the week, among subscribers, vs customers, means that business is likely being driven mostly by locals commuting within the city vs tourist. To understand if this model could work in a less densly populated area such as Des Moines, it would be worth analyzing: 
+* Average tripduration times by age.
+* Trip duration times by usertype, by gender by age.
+ 
